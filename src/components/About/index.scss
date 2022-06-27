@@ -1,0 +1,18 @@
+h1 {
+
+}
+
+@keyframes typing {
+    0% {
+        width: 0px;
+    }
+}
+
+@keyframes blinking {
+    0%, 100% {
+        border-color: transparent;
+    }
+    50% {
+        border-color: #ffd700
+    }
+}
