@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/brian3190/react-portfolio/static/css/main.90e88d13.css",
+    "main.js": "/brian3190/react-portfolio/static/js/main.04802126.js",
+    "static/js/787.a2cb61a6.chunk.js": "/brian3190/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/laptop-and-bookshelf.jpeg": "/brian3190/react-portfolio/static/media/laptop-and-bookshelf.33c5857e4d50486088d1.jpeg",
+    "static/media/CoolveticaRg-Regular.woff2": "/brian3190/react-portfolio/static/media/CoolveticaRg-Regular.7838d1d1b17982780b8f.woff2",
+    "static/media/helvetica-neu.ttf": "/brian3190/react-portfolio/static/media/helvetica-neu.372d58a9bf10285baebe.ttf",
+    "static/media/LaBelleAurore.woff2": "/brian3190/react-portfolio/static/media/LaBelleAurore.eb62546cdc66d8a1769d.woff2",
+    "static/media/logo.svg": "/brian3190/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/brian3190/react-portfolio/index.html",
+    "main.90e88d13.css.map": "/brian3190/react-portfolio/static/css/main.90e88d13.css.map",
+    "main.04802126.js.map": "/brian3190/react-portfolio/static/js/main.04802126.js.map",
+    "787.a2cb61a6.chunk.js.map": "/brian3190/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90e88d13.css",
+    "static/js/main.04802126.js"
+  ]
+}
