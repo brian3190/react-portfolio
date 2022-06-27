@@ -34,7 +34,6 @@ const Home=()=>{
                 <h2>Full Stack Developer / Javascript Expert </h2>
                 <Link to="/contact" className="flat-button">CONTACT ME</Link>
             </div>
-
         </div>
     )
 }

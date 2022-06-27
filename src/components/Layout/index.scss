@@ -7,6 +7,7 @@
 .top-tags {
     bottom: auto;
     top: 35px;
+    margin-left: -20px;
 }
 
 .tags {
@@ -17,6 +18,10 @@
     left: 120px;
     font-size: 18px;
     font-family: 'La Belle Aurore', cursive;
+}
+
+.bottom-tag-body {
+    margin-left: 20px;
 }
 
 .bottom-tag-html {
@@ -34,6 +39,6 @@
     margin: 0 auto;
     z-index: 1;
     transform-style: preserve-3d;
-    animation: fadeIn 1s forwards;
-    animation-delay: 1s;
+    animation: fadeIn 0.5s forwards;
+    animation-delay: 0.5s;
 }
