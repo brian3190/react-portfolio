@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.04587b07.css",
-    "main.js": "/react-portfolio/static/js/main.adca761d.js",
+    "main.css": "/react-portfolio/static/css/main.d3439a7b.css",
+    "main.js": "/react-portfolio/static/js/main.5249fbc0.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/laptop-and-bookshelf.jpeg": "/react-portfolio/static/media/laptop-and-bookshelf.33c5857e4d50486088d1.jpeg",
     "static/media/CoolveticaRg-Regular.woff2": "/react-portfolio/static/media/CoolveticaRg-Regular.7838d1d1b17982780b8f.woff2",
@@ -9,12 +9,12 @@
     "static/media/LaBelleAurore.woff2": "/react-portfolio/static/media/LaBelleAurore.eb62546cdc66d8a1769d.woff2",
     "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-portfolio/index.html",
-    "main.04587b07.css.map": "/react-portfolio/static/css/main.04587b07.css.map",
-    "main.adca761d.js.map": "/react-portfolio/static/js/main.adca761d.js.map",
+    "main.d3439a7b.css.map": "/react-portfolio/static/css/main.d3439a7b.css.map",
+    "main.5249fbc0.js.map": "/react-portfolio/static/js/main.5249fbc0.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04587b07.css",
-    "static/js/main.adca761d.js"
+    "static/css/main.d3439a7b.css",
+    "static/js/main.5249fbc0.js"
   ]
 }
