@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from 'react';
 import './index.scss';
 
-const Contact=(props)=>{
+const Contact=()=>{
     // this.state = {
     //     value: 'Please write your message here.'
     // };

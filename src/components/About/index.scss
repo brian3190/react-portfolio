@@ -26,37 +26,8 @@
             font-size: 18px;
             position: absolute;
             margin-top: 20px;
-            margin-left: 60px;
+            margin-left: 180px;
             opacity: 0.6;
-        }
-        
-        h1 {
-            color: #fff;
-            font-size: 55px;
-            line-height: 60px;
-            margin: 0;
-            font-family: 'Coolvetica';
-            font-weight: 400;
-            animation: typing 3s steps(8),
-                        blinking 0.5s steps(1) 5s;
-            
-            @keyframes typing {
-                0% {
-                    width: 0px;
-                }
-                100% {
-                    width: 100%;
-                }
-            }
-            
-            @keyframes blinking {
-                0%, 100% {
-                    border-color: transparent;
-                }
-                50% {
-                    border-color: #ffd700
-                }
-            }
         }
 
         .text {

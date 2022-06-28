@@ -1,12 +1,13 @@
 import React from "react";
 import './index.scss';
+import TypingLetters from "../TypingLetters/index.js";
 
 const About=()=>{
     return(
         <div className="container about-page">
             <div className="text-zone">
                 <div className="details">
-                    <h1>About me</h1>
+                    <TypingLetters/>
                     <div className="text">
                         <h2>
                             <h3>2015</h3>
