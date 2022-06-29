@@ -27,7 +27,7 @@
             font-size: 18px;
             position: absolute;
             margin-top: 20px;
-            margin-left: 220px;
+            margin-left: 280px;
             opacity: 0.6;
         }
 
@@ -48,30 +48,30 @@
                 margin-bottom: 5px;
             }
 
-            #ruby:hover{
+            #ruby{
                 color: #d30001;
                 font-family: 'Calibre', sans-serif;
                 font-size: 22px;
                 font-weight: bold;
             }
 
-            #react:hover{
+            #react{
                 color: #61dafb;
                 font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
             }
 
-            #go:hover{
+            #go{
                 color: #64ccd8;
                 font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
             }
 
-            #mean:hover{
+            #mean{
                 background-image: linear-gradient(60deg, #3c8c2f,#f2be00, #e02c2f,#97b455);
                 background-clip: text;
                 color: transparent;
             }
 
-            #ms:hover{
+            #ms{
                 color: #6a4097;
                 font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
                 -webkit-text-stroke-width: 0.2px;
