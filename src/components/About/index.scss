@@ -5,6 +5,7 @@
         top: 20%;
         width: 40%;
         max-height: 90%;
+        margin-top: -30px;
     }
     
     .details {
@@ -14,8 +15,8 @@
             color: #3fd467;
             font-size: 18px;
             position: absolute;
-            margin-top: -40px;
-            left: 15px;
+            margin-top: -30px;
+            left: -10px;
             opacity: 0.6;
         }
         
@@ -26,22 +27,55 @@
             font-size: 18px;
             position: absolute;
             margin-top: 20px;
-            margin-left: 180px;
+            margin-left: 220px;
             opacity: 0.6;
         }
 
         .text {
             color:#8d8d8d;
-            margin-top: 20px;
-            margin-bottom: 30px;
-            font-weight: 400;
-            font-size: 11px;
+            margin-top: 0px;
+            margin-bottom: 5px;
+            font-weight: 200;
+            font-size: 8px;
             font-family: sans-serif;
-            letter-spacing: 3px;
+            letter-spacing: 2px;
             animation: fadeIn 1s 1.8s backwards;
             
             h3 {
-                color: #fff
+                color: #fff;
+                font-size: 20px;
+                margin-top: 8px;
+                margin-bottom: 5px;
+            }
+
+            #ruby:hover{
+                color: #d30001;
+                font-family: 'Calibre', sans-serif;
+                font-size: 22px;
+                font-weight: bold;
+            }
+
+            #react:hover{
+                color: #61dafb;
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            }
+
+            #go:hover{
+                color: #64ccd8;
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            }
+
+            #mean:hover{
+                background-image: linear-gradient(60deg, #3c8c2f,#f2be00, #e02c2f,#97b455);
+                background-clip: text;
+                color: transparent;
+            }
+
+            #ms:hover{
+                color: #6a4097;
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+                -webkit-text-stroke-width: 0.2px;
+                -webkit-text-stroke-color: white;
             }
         }
     }           

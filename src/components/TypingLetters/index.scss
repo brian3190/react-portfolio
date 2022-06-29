@@ -28,7 +28,6 @@
     width: fit-content;
     letter-spacing: .1em;
     border-right: .12em solid #CE2D4F;
-    animation: typing 3s steps(12),
-            blinking 0.5s steps(1) infinite;
-    
+    animation: typing 3s 1s backwards steps(16),
+            blinking 0.5s steps(1) infinite;    
 }
