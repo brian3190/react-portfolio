@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Sample React app 
+This project is hosted on  [Github Pages](https://brian3190.github.com/react-portfolio).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Getting started with Create React App
+
+This project was bootstrapped with [Create React App](https:github.com/facebook/create-react-app).
 
 ## Available Scripts
 
