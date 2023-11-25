@@ -1,5 +1,5 @@
-# Sample React app 
-This project is hosted on  [Github Pages](https://brian3190.github.com/react-portfolio).
+# Sample React app - brian3190.github.io/react-portfolio
+This project is hosted on  [Github Pages](https://brian3190.github.io/react-portfolio).
 
 ## Getting started with Create React App
 
